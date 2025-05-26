@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Jordan Ordonez
 
-<!--
-**Jordonez123/Jordonez123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer and data scientist passionate about building impactful tech solutions and making data-driven decisions. I have experience in web development, data analysis, and machine learning, and I've worked on projects ranging from MVP development to real estate market forecasting.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 💻 Currently building web and data science projects using Python, JavaScript, SQL, and AWS
+- 📊 Recently completed a data science bootcamp, where I led a capstone on U.S. housing market forecasting
+- 🌱 Always learning — currently diving deeper into NLP and MLOps
+- 🎓 CS + Applied Math @ Columbia University
+
+---
+
+### 🤝 Let's Connect
+- 📫 Email: jordonez123@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jordonez123)  
+- 🌐 [Portfolio Website](https://jordonez123.github.io) *(if you have one)*
+
+---
+
+Thanks for stopping by!
