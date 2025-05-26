@@ -15,7 +15,7 @@ I'm a software engineer and data scientist passionate about building impactful t
 ### 🤝 Let's Connect
 - 📫 Email: jordonez123@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jordonez123)  
-- 🌐 [Portfolio Website](https://jordonez123.github.io) *(if you have one)*
+- 🌐 [Portfolio Website](https://jordonez123.github.io)
 
 ---
 
