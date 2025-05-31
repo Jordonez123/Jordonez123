@@ -5,7 +5,7 @@ I'm a software engineer and data scientist passionate about building impactful t
 ---
 
 ### 🚀 About Me
-- 💻 Currently building web and data science projects using 
+- 💻 Always building
 - 📊 Recently completed a data science bootcamp, where I led a capstone on U.S. housing market forecasting
 - 🌱 Always learning — currently diving deeper into NLP and MLOps, getting my Google Project Management Certification
 - 🎓 CS + Applied Math @ Columbia University
